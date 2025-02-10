@@ -2,12 +2,12 @@
 
 💻 **Aspiring Software Engineer** | 🚀 **Competitive Programmer** | 🏆 **Tech Enthusiast**
 
-Passionate about **solving real-world problems through technology** and continuously improving my skills in **software development and DevOps**. My goal is to land a role at a **top-tier tech company** like Google, Meta, Apple, or Microsoft! ✨
+Passionate about **solving real-world problems through technology** and continuously improving my skills in **software development and DevOps**.✨
 
 ---
 
 ## 🔥 About Me
-- 🎯 **Aspiring Software Engineer** aiming for **FAANG and other top tech companies**.
+- 🎯 **Aspiring Software Engineer**
 - 🧠 Strong problem-solving skills with a passion for **competitive programming**.
 - 🌟 Enthusiastic about **system design, cloud computing, and DevOps**.
 - 💡 Always learning and improving my **coding & development skills**.
@@ -41,10 +41,16 @@ Passionate about **solving real-world problems through technology** and continuo
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mrpc13)
+## 🔗 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mrpc13)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrpc13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/mrpc13)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mrpc13)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/mrpc13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mrpc13)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIg_BzKSrhEpSQ3O3EaTuOg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6D8Q8J_m_irAyyLPaap5hA)
 
 ---
 
