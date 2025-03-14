@@ -4,8 +4,6 @@
 
 Passionate about designing scalable systems, optimizing algorithms, and building impactful software solutions. I thrive on solving complex problems and constantly push myself to improve in software development, DevOps, and competitive programming.
 
----
-
 ## 🔥 About Me
 - 🖥 Software Engineer in the making, passionate about backend development & system design.
 - 💡 Enthusiastic about cloud computing, DevOps, and scalable infrastructure.
