@@ -1,4 +1,4 @@
-## Hi there, I'm Prakhar Chaudhary 👋
+🚀 Hi there, I'm Prakhar Chaudhary 👋
 
 💻 Aspiring Software Engineer | 🚀 Competitive Programmer | 🏆 Tech Enthusiast
 
