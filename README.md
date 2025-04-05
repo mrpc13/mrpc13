@@ -9,7 +9,7 @@ Passionate about designing scalable systems, Crafting elegant algorithms, and bu
 - 💡 Enthusiastic about cloud computing, DevOps, and scalable infrastructure.
 - 🏆 Strong problem-solving skills with expertise in data structures & algorithms.
 - 🔍 Always exploring new technologies, design patterns, and best practices.
-- 🌱 Committed to open-source contributions and knowledge-sharing.
+- 🌱 Driven to open-source contributions and knowledge-sharing.
 
 ---
 
