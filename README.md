@@ -32,7 +32,7 @@ Passionate about designing scalable systems, Crafting elegant algorithms, and bu
 
 ## 🌱 Aspirations & Goals
 - 🎯 Become a highly skilled software engineer with expertise in backend systems & cloud computing.
-- 🔥 Master data structures & algorithms for efficient coding and problem-solving.
+- 🔥 Conquer data structures & algorithms for efficient coding and problem-solving.
 - 🚀 Contribute to open-source projects and collaborate with the global developer community.
 - ⚡️ Work on real-world applications that solve complex problems at scale.
 
