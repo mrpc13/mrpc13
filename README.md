@@ -2,7 +2,6 @@
 
 💻 Passionate Software Engineer | 🚀 Competitive Programmer | 🏆 Tech Enthusiast
 
-
 Passionate about designing scalable systems, Crafting elegant algorithms, and building impactful software solutions. I thrive on solving complex problems and constantly push myself to improve in software development, DevOps, and competitive programming.
 
 ## 🔥 About Me
